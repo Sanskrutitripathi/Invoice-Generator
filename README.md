@@ -2,7 +2,6 @@
 
 A Python-based application for generating invoices, managing customer information, and storing data in a PostgreSQL database. The program also provides features to search, view, and delete customer information, making it a comprehensive solution for invoice and customer management.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ A Python-based application for generating invoices, managing customer informatio
 - **Database Integration**: Store and manage customer information and invoices using PostgreSQL.
 - **Dynamic Tax Calculation**: Automatically calculates taxes and displays total amounts on invoices.
 
----
 
 ## Prerequisites
 
@@ -26,7 +24,6 @@ Ensure you have the following installed on your system:
   - `datetime`
   - `re`
 
----
 
 ## Database Setup
 
